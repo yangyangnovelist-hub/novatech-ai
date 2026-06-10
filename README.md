@@ -1,3 +1,19 @@
+<div align="center">
+
+# NovaTech AI
+
+**Enterprise LLM application platform — build, deploy and iterate on AI workflows visually**
+
+[![Stars](https://img.shields.io/github/stars/yangyangnovelist-hub/novatech-ai?style=flat-square&color=black)](https://github.com/yangyangnovelist-hub/novatech-ai)
+[![License](https://img.shields.io/badge/license-Apache--2.0-blue?style=flat-square)](./LICENSE)
+[![NovaTech Labs](https://img.shields.io/badge/NovaTech_Labs-2026-000000?style=flat-square)](https://github.com/yangyangnovelist-hub)
+
+</div>
+
+> Developed and maintained by **[NovaTech Labs](https://github.com/yangyangnovelist-hub)**.
+
+---
+
 ![cover-v5-optimized](./images/GitHub_README_if.png)
 
 <p align="center">
